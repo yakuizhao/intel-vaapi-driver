@@ -32,6 +32,7 @@
 #include <errno.h>
 #include <cpuid.h>
 
+/* test debug */
 /* Extra set of chroma formats supported for H.264 decoding (beyond YUV 4:2:0) */
 #define EXTRA_H264_DEC_CHROMA_FORMATS \
     (VA_RT_FORMAT_YUV400)
