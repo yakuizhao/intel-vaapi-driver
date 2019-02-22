@@ -45,6 +45,8 @@
 #define HEIGHT_IN_MACROBLOCKS(height)   (ALIGN(height, 16) >> 4)
 #define MAX_TEMPORAL_LAYERS         4
 
+Tet3
+
 struct intel_roi {
     short left;
     short right;
